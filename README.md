@@ -1,6 +1,6 @@
 # Forggith-Power-BI-Analytics-Dashboard
 
-**Interactive Sales & Marketing Performance dashboards built in Power BI that empower managers to track revenue, targets, and product contributions in real time, enabling smarter business decisions and improved profitability.**
+**Is an interactive Sales & Marketing Performance dashboard built in Power BI that help managers track revenue, targets, and product contributions in real time, enabling smarter business decisions and improve profitability.**
 
 ---
 
