@@ -54,6 +54,6 @@ The dashboards are powered by a clean **star schema model**, **DAX measures**, a
 3. Explore the dashboards interactively.
 
 ### Demo & Resources
-- [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTkwMGM1ZjgtNTI0MS00NGMzLTk0NTktN2Y5ZTQ3N2M2MTk3IiwidCI6ImI0MzQ1NGNkLTM2NGQtNDdiOS04NTJmLWY2YTFlNDFlMjg1ZSJ9)
+- [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2JjMGQ3ZDMtNjAyMC00ZjhkLTkwNDktY2FhNzAzMGJhMTcxIiwidCI6ImI0MzQ1NGNkLTM2NGQtNDdiOS04NTJmLWY2YTFlNDFlMjg1ZSJ9)
 - [ Video: How to Export to Excel with DAX Studio](https://www.youtube.com/watch?v=DykVdNh6dcM&t=86s)
 - [Link to Full Report](https://medium.com/@ezeliorafavour/power-bi-sales-marketing-performance-reporting-for-forggith-pharmaceuticals-62c077adf6d6)
